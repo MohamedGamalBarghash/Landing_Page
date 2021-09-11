@@ -5,8 +5,8 @@ This is a multi-section landing page, the page will automatically add a navigati
 CONTENTS:
 
 - An .html file which is the HTML `.html` written page.
-- A .css file in the folder `css` which contains the styling file `(.css)` for the page.
-- A .js file in the folder `js` which contains the functionality file `(.js)` for the page.
+- A `.css` file in the folder `css` which contains the styling file for the page.
+- A `.js` file in the folder `js` which contains the functionality file for the page.
 
 INSTRUCTIONS:
 
