@@ -1,4 +1,5 @@
-# This project was made for the Front End Web Development Professional Nanodegree Program.
+# LANDING PAGE PROJECT
+This project was made for the Front End Web Development Professional Nanodegree Program.
 
 This is a multi-section landing page, the page will automatically add a navigation menu with as many sections as inserted into the webpage, the page is capable of running on any browser on any device.
 
