@@ -26,6 +26,6 @@ This is a one-page multi-section landing page, the page will automatically add a
 - Visual Studio Code.
 
 # AUTHORS:
-- Udacity (most of `html`, most of `css`).
-- Mohamed Gamal Barghash (`html`, `css`, `js`).
+- Udacity (`html`, `css`).
+- Mohamed Barghush (`html`, `css`, `js`).
 
