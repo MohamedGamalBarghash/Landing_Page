@@ -9,6 +9,9 @@ This is a multi-section landing page, the page will automatically add a navigati
 - A `.css` file in the folder `css` which contains the styling file for the page.
 - A `.js` file in the folder `js` which contains the functionality file for the page.
 
+# PREVIEW:
+![Output](https://github.com/MohamedGamalBarghash/Landing_Page/blob/main/Screenshots/Page.jpg)
+
 # INSTRUCTIONS:
 
 - Download the file or get it through git.
