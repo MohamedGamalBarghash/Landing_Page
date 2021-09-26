@@ -1,7 +1,7 @@
 # LANDING PAGE PROJECT
 This project was made for the Front End Web Development Professional Nanodegree Program.
 
-This is a multi-section landing page, the page will automatically add a navigation menu with as many sections as inserted into the webpage, the page is capable of running on any browser on any device.
+This is a one-page multi-section landing page, the page will automatically add a navigation menu with as many sections as inserted into the webpage, the page is capable of running on any browser on any device.
 
 # CONTENTS:
 
@@ -11,6 +11,9 @@ This is a multi-section landing page, the page will automatically add a navigati
 
 # PREVIEW:
 ![Output](https://github.com/MohamedGamalBarghash/Landing_Page/blob/main/Screenshots/Page.jpg)
+- The page contains a navigation bar on the top of the page to move to each of the sections of the page.
+- The page has floating circles to give the page a live theme.
+- The section in preview is highlighted on the navigation bar on the top to know where you are in the page.
 
 # INSTRUCTIONS:
 
